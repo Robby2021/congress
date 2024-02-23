@@ -6,7 +6,7 @@ Slightly modified version of the publically available web scraper.
 
 ## Setup:
 
-Run the following code in congress_data to load the data:
+Run the following code in congress to load the data:
 '''
 
 conda create -n env python=3.7 anaconda
