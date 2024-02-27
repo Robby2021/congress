@@ -1,0 +1,3 @@
+[submodule "congress_data_scraper"]
+	path = congress_data_scraper
+	url = https://github.com/Robby2021/congress.git
